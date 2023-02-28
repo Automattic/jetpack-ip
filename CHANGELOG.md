@@ -10,5 +10,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added a utility function to extract an array of IP addresses from a given string.
 - Add jetpack-ip package functionality
 - Initialized the package.
